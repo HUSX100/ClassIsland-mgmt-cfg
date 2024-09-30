@@ -15,10 +15,10 @@
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/settings.json",
-        "Version": 1
+        "Version": 2
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/policy.json",
-        "Version": 1
+        "Version": 2
     }
 }
