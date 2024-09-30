@@ -10,7 +10,7 @@
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/{id)/subjects.json",
+        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/subjects.json",
         "Version": 1
     }
 }
