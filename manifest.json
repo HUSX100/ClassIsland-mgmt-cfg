@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "HUS"
+    "OrganizationName": "HUS",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/TimeLayout.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/Subjects.json",
+        "Version": 1
+    }
 }
