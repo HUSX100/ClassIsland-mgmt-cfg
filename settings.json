@@ -1,5 +1,5 @@
 {
-    "SelectedProfile": "",
+    "SelectedProfile": "default.json",
     "IsMainWindowVisible": true,
     "IsWelcomeWindowShowed": true,
     "SingleWeekStartTime": "2024-09-02T00:00:00",
@@ -282,7 +282,7 @@
     "EdgeTtsVoiceName": "zh-CN-XiaoxiaoNeural",
     "IsNotificationEffectEnabled": true,
     "IsNotificationSoundEnabled": true,
-    "NotificationSoundPath": "C:\\Users\\HUS\\Desktop\\\u4E0B\u8BFE\u94C3.wav",
+    "NotificationSoundPath": "C:\\ClassIsland\\\u4E0B\u8BFE\u94C3.wav",
     "IsNotificationTopmostEnabled": true,
     "NotificationEffectRenderingScale": 0.25,
     "IsNotificationEffectRenderingScaleAutoSet": true,
