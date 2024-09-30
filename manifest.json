@@ -12,5 +12,13 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/subjects.json",
         "Version": 2
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/settings.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/HUSX100/ClassIsland-mgmt-cfg/main/policy.json",
+        "Version": 1
     }
 }
