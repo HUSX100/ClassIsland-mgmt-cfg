@@ -2,23 +2,23 @@
     "ServerKind": 0,
     "OrganizationName": "HUS",
     "ClassPlanSource": {
-        "Value": "https://gitee.com/HUSX100/ClassIsland-mgmt-cfg/raw/main/{id}/classplans.json",
+        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/document.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://gitee.com/HUSX100/ClassIsland-mgmt-cfg/raw/main/{id}/timelayouts.json",
+        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/document.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://gitee.com/HUSX100/ClassIsland-mgmt-cfg/raw/main/{id}/subjects.json",
+        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/document.json",
         "Version": 1
     },
     "DefaultSettingsSource": {
-        "Value": "https://gitee.com/HUSX100/ClassIsland-mgmt-cfg/raw/main/settings.json",
+        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/settings.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://gitee.com/HUSX100/ClassIsland-mgmt-cfg/raw/main/policy.json",
+        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/policy.json",
         "Version": 1
     }
 }
