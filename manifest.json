@@ -1,22 +1,6 @@
 {
     "ServerKind": 0,
     "OrganizationName": "HUS",
-    "ClassPlanSource": {
-        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/document.json",
-        "Version": 1
-    },
-    "TimeLayoutSource": {
-        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/document.json",
-        "Version": 1
-    },
-    "SubjectsSource": {
-        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/{id}/document.json",
-        "Version": 1
-    },
-    "DefaultSettingsSource": {
-        "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/settings.json",
-        "Version": 1
-    },
     "PolicySource": {
         "Value": "https://raw.gitmirror.com/HUSX100/ClassIsland-mgmt-cfg/main/policy.json",
         "Version": 1
